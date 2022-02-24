@@ -1,0 +1,15 @@
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\bin\Debug\net6.0\AdapterDemo.exe
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\bin\Debug\net6.0\AdapterDemo.deps.json
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\bin\Debug\net6.0\AdapterDemo.runtimeconfig.json
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\bin\Debug\net6.0\AdapterDemo.dll
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\bin\Debug\net6.0\ref\AdapterDemo.dll
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\bin\Debug\net6.0\AdapterDemo.pdb
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.csproj.AssemblyReference.cache
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.AssemblyInfoInputs.cache
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.AssemblyInfo.cs
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.csproj.CoreCompileInputs.cache
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.dll
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\ref\AdapterDemo.dll
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.pdb
+C:\Users\hieupc\Documents\Greenwich\1651\AdapterDemo\obj\Debug\net6.0\AdapterDemo.genruntimeconfig.cache
